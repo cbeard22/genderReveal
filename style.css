@@ -1,0 +1,22 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 15%;
+    font-size: 100px;
+    color: white;
+    font-family: 'Amatic SC', cursive;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}
+
+#reveal{
+    font-size: 30px;
+    border-radius: 25px;
+}
+
+body{
+    background-image: linear-gradient(to left, rgb(25, 152, 255), rgb(228, 140, 155))
+}
